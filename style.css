@@ -1,0 +1,4 @@
+.thumbnail:hover {
+	opacity: .8;
+	transition-duration: 0.6s;
+}
